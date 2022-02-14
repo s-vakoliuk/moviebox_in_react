@@ -1,7 +1,7 @@
 import {useEffect, useState} from "react"
 import './App.css'
 import axios from 'axios'
-import MovieListCard from "./components/MovieListCard"
+import MovieListCard from "./components/MovieListCard/MovieListCard"
 import Youtube from 'react-youtube'
 
 function App() {
