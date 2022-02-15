@@ -18,5 +18,4 @@ const MovieListCard = ({movie, selectMovie}) => {
     );
 };
 
-
 export default MovieListCard;
